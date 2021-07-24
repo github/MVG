@@ -2,7 +2,7 @@
 
 This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
 
-## 1. Mission
+## 1. Mission 
 
 [Set out mission of the Organization].
 
