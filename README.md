@@ -15,9 +15,9 @@ Minimum Viable Governance allows you to start an organization and sub-projects w
 ## How do we use this?
 
 1. Review the documents and determine if this is right for you.
-2. Describe the organization's mission in Section 1 of the [charter.md](https://github.com/github/MVG/blob/main/org-docs/CHARTER.md) file.
+2. Describe the organization's mission in Section 1 of the [CHARTER.md](https://github.com/github/MVG/blob/main/org-docs/CHARTER.md) file.
 3. Put the org-docs in a repository for the organization's governance and have each initial TSC member "sign" the STEERING-COMMITTEE.md file by adding their name and organizational affiliation (if applicable) to the file.
-4. For each project that will be under your organization's governance, create a repository under the organization and have each initial maintainer "sign" the maintainers.md file by adding their name and affiliation (if applicable) to the file.
+4. For each project that will be under your organization's governance, create a repository under the organization and have each initial maintainer "sign" the MAINTAINERS.md file by adding their name and affiliation (if applicable) to the file.
 5. [Choose a license](https://choosealicense.com/) or fill out the copyright information in the MIT "LICENSE.md" file for each project.
 6. Get to work.
 
