@@ -27,7 +27,7 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE.md).
 
-Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/EthicalSource/contributor_covenant/release/content/version/2/0/code_of_conduct.md). By participating in this project you agree to abide by its terms. Violaitions of the CoC should be reported to: opensource@github.com. To avoid confusion with MVG artifacts, we did not place the CoC in the repo.
+Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/EthicalSource/contributor_covenant/release/content/version/2/0/code_of_conduct.md) (CoC). By participating in this project you agree to abide by its terms. Violations of the CoC should be reported to: opensource@github.com. To avoid confusion with MVG artifacts, we did not place the CoC in the repo.
 
 ### Submitting a pull request
 
