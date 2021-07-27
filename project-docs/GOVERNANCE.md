@@ -20,13 +20,13 @@ This project may include the following roles. Additional roles may be adopted an
 
 **3.1. Openness**. Participation is open to anyone who is directly and materially affected by the activity in question. There shall be no undue financial barriers to participation.
 
-**3.2. Balance.**  The development process should balance the interests of Contributors and other stakeholders. Contributors from diverse interest categories shall be sought with the objective of achieving balance.
+**3.2. Balance**. The development process should balance the interests of Contributors and other stakeholders. Contributors from diverse interest categories shall be sought with the objective of achieving balance.
 
-**3.3. Coordination and Harmonization.** Good faith efforts shall be made to resolve potential conflicts or incompatibility between releases in this Project.
+**3.3. Coordination and Harmonization**. Good faith efforts shall be made to resolve potential conflicts or incompatibility between releases in this Project.
 
-**3.4. Consideration of Views and Objections.** Prompt consideration shall be given to the written views and objections of all Contributors.
+**3.4. Consideration of Views and Objections**. Prompt consideration shall be given to the written views and objections of all Contributors.
 
-**3.5. Written procedures.** This governance document and other materials documenting this project's development process shall be available to any interested person.
+**3.5. Written procedures**. This governance document and other materials documenting this project's development process shall be available to any interested person.
 
 ## 4. No Confidentiality.
 
