@@ -1,6 +1,6 @@
 # Charter for the [FIXME] Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
+This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
 
@@ -30,11 +30,11 @@ In addition to the method set out in section 2.2, the membership of a Steering C
 
 ## 5. Trademarks
 
-Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. Steering Committee members may only use the Marks in accordance with the Organization's trademark policy. If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
+Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. Steering Committee members may only use the Marks in accordance with the Organization's [trademark policy](./TRADEMARKS.md). If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
 
 ## 6. Antitrust Policy
 
-The Steering Committee is bound by the Organization's antitrust policy.
+The Steering Committee is bound by the Organization's [antitrust policy](./ANTITRUST.md).
 
 ## 7. No Confidentiality
 
@@ -49,7 +49,7 @@ In order to be eligible to be a Organization project, a project must:
 * Use only the following outbound licenses or agreements unless otherwise approved:
   - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
-  - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](http://www.openwebfoundation.org/legal) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
+  - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 * Include and adhere to the Organization's policies, including the trademark policy, the antitrust-policy, and the code of conduct.
 
 ## 9. Amendments
