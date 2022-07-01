@@ -4,7 +4,7 @@
 
 Minimum Viable Governance (MVG) - currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects. At the top level (called an "organization" on GitHub), there is a technical steering committee to make decisions about the overall direction and coordination between all the organization's projects. Underneath that top level are the individual projects, with lightweight, consensus-based governance.
 
-There are two folders. The first, org-docs, provides top-level organizational governance and polices for a technical steering committee (TSC). The second folder, project-docs, provides a template for individual project governance, subject to the polices and oversight of the larger organization.
+There are two folders. The first, org-docs, provides top-level organizational governance and policies for a technical steering committee (TSC). The second folder, project-docs, provides a template for individual project governance, subject to the policies and oversight of the larger organization.
 
 Minimum Viable Governance is meant as a way to quickly stand up collaborations that can grow with your organization and projects. If your organization grows to the point where a corporate home becomes necessary, typically when your organization begins holding money, MVG is designed to make that transition easy.
 
@@ -25,7 +25,7 @@ Minimum Viable Governance allows you to start an organization and sub-projects w
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
-Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE.md).
+Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
 
 Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/EthicalSource/contributor_covenant/release/content/version/2/0/code_of_conduct.md) (CoC). By participating in this project you agree to abide by its terms. Violations of the CoC should be reported to: opensource@github.com. To avoid confusion with MVG artifacts, we did not place the CoC in the repo.
 
