@@ -4,4 +4,4 @@ Participants acknowledge that they may compete with other participants in variou
 
 ---
 Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
